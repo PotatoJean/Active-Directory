@@ -30,6 +30,7 @@ The following project is done referencing to the information provided in the dia
 <p align="center">
 Creating the Active Directory <br/>
   <p>
+<p align="center">
 -Upon setting up the Windows Server as the domain controller on Virtual Box, Server Management dashboard will be displayed<br/>
 -Click on add role and features<br/>
  </p> <br/>
