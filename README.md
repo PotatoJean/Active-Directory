@@ -22,6 +22,7 @@ Goal of Project: to setup a basic home lab running active directory and create a
  <p align="center">
   <img src="https://i.imgur.com/egvCvHr.png" height="80%" width="80%" alt="Change mod of shell script"/><br/>
    <p>
+     <p align="center">
 The following project is done referencing to the information provided in the diagram above<br/>
  </p> <br/>
  
@@ -30,7 +31,7 @@ The following project is done referencing to the information provided in the dia
 <p align="center">
 Creating the Active Directory <br/>
   <p>
-<p align="center">
+
 -Upon setting up the Windows Server as the domain controller on Virtual Box, Server Management dashboard will be displayed<br/>
 -Click on add role and features<br/>
  </p> <br/>
